@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Aug 17 18:08:11 CEST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0165-48a4-e7b2-000011ca95a8 
+on database directory /Users/AlessandroMacagno/Desktop/Pisa/BigDataAnalytics/Project/Ciclopi/CicloPiUsage/src/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@1d9ea932 
+Loaded from file:/Users/AlessandroMacagno/Desktop/Pisa/BigDataAnalytics/Project/Ciclopi/spark-2.3.1-bin-hadoop2.7/jars/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_181-b13
+user.dir=/Users/AlessandroMacagno/Desktop/Pisa/BigDataAnalytics/Project/Ciclopi/CicloPiUsage/src
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.13.6
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

@@ -1,0 +1,1461 @@
+day,day_range,weather
+01/01/2015,0,Clear
+01/01/2015,600,Clear
+01/01/2015,1200,Sunny
+01/01/2015,1800,Sunny
+02/01/2015,0,Clear
+02/01/2015,600,Clear
+02/01/2015,1200,Sunny
+02/01/2015,1800,Sunny
+03/01/2015,0,Clear
+03/01/2015,600,Mist
+03/01/2015,1200,Sunny
+03/01/2015,1800,Sunny
+04/01/2015,0,Partly cloudy
+04/01/2015,600,Partly cloudy
+04/01/2015,1200,Sunny
+04/01/2015,1800,Sunny
+05/01/2015,0,Clear
+05/01/2015,600,Clear
+05/01/2015,1200,Sunny
+05/01/2015,1800,Sunny
+06/01/2015,0,Clear
+06/01/2015,600,Partly cloudy
+06/01/2015,1200,Patchy rain possible
+06/01/2015,1800,Patchy light drizzle
+07/01/2015,0,Partly cloudy
+07/01/2015,600,Partly cloudy
+07/01/2015,1200,Sunny
+07/01/2015,1800,Sunny
+08/01/2015,0,Clear
+08/01/2015,600,Clear
+08/01/2015,1200,Partly cloudy
+08/01/2015,1800,Partly cloudy
+09/01/2015,0,Patchy rain possible
+09/01/2015,600,Cloudy
+09/01/2015,1200,Partly cloudy
+09/01/2015,1800,Sunny
+10/01/2015,0,Partly cloudy
+10/01/2015,600,Clear
+10/01/2015,1200,Sunny
+10/01/2015,1800,Sunny
+11/01/2015,0,Mist
+11/01/2015,600,Mist
+11/01/2015,1200,Light drizzle
+11/01/2015,1800,Sunny
+12/01/2015,0,Clear
+12/01/2015,600,Clear
+12/01/2015,1200,Sunny
+12/01/2015,1800,Sunny
+13/01/2015,0,Clear
+13/01/2015,600,Clear
+13/01/2015,1200,Sunny
+13/01/2015,1800,Partly cloudy
+14/01/2015,0,Partly cloudy
+14/01/2015,600,Patchy rain possible
+14/01/2015,1200,Patchy light drizzle
+14/01/2015,1800,Patchy rain possible
+15/01/2015,0,Partly cloudy
+15/01/2015,600,Cloudy
+15/01/2015,1200,Patchy light drizzle
+15/01/2015,1800,Sunny
+16/01/2015,0,Cloudy
+16/01/2015,600,Light drizzle
+16/01/2015,1200,Light drizzle
+16/01/2015,1800,Light rain shower
+17/01/2015,0,Light rain shower
+17/01/2015,600,Light rain shower
+17/01/2015,1200,Moderate rain
+17/01/2015,1800,Light rain
+18/01/2015,0,Partly cloudy
+18/01/2015,600,Clear
+18/01/2015,1200,Sunny
+18/01/2015,1800,Sunny
+19/01/2015,0,Clear
+19/01/2015,600,Clear
+19/01/2015,1200,Partly cloudy
+19/01/2015,1800,Cloudy
+20/01/2015,0,Overcast
+20/01/2015,600,Overcast
+20/01/2015,1200,Partly cloudy
+20/01/2015,1800,Partly cloudy
+21/01/2015,0,Light drizzle
+21/01/2015,600,Light drizzle
+21/01/2015,1200,Light drizzle
+21/01/2015,1800,Patchy rain possible
+22/01/2015,0,Light rain shower
+22/01/2015,600,Partly cloudy
+22/01/2015,1200,Partly cloudy
+22/01/2015,1800,Sunny
+23/01/2015,0,Clear
+23/01/2015,600,Partly cloudy
+23/01/2015,1200,Sunny
+23/01/2015,1800,Sunny
+24/01/2015,0,Partly cloudy
+24/01/2015,600,Partly cloudy
+24/01/2015,1200,Partly cloudy
+24/01/2015,1800,Sunny
+25/01/2015,0,Partly cloudy
+25/01/2015,600,Cloudy
+25/01/2015,1200,Cloudy
+25/01/2015,1800,Sunny
+26/01/2015,0,Clear
+26/01/2015,600,Partly cloudy
+26/01/2015,1200,Sunny
+26/01/2015,1800,Sunny
+27/01/2015,0,Clear
+27/01/2015,600,Partly cloudy
+27/01/2015,1200,Sunny
+27/01/2015,1800,Sunny
+28/01/2015,0,Clear
+28/01/2015,600,Clear
+28/01/2015,1200,Sunny
+28/01/2015,1800,Sunny
+29/01/2015,0,Clear
+29/01/2015,600,Cloudy
+29/01/2015,1200,Light drizzle
+29/01/2015,1800,Partly cloudy
+30/01/2015,0,Heavy rain
+30/01/2015,600,Moderate or heavy rain shower
+30/01/2015,1200,Light rain shower
+30/01/2015,1800,Sunny
+31/01/2015,0,Patchy rain possible
+31/01/2015,600,Clear
+31/01/2015,1200,Light rain shower
+31/01/2015,1800,Light rain shower
+01/02/2015,0,Patchy rain possible
+01/02/2015,600,Light rain shower
+01/02/2015,1200,Light rain shower
+01/02/2015,1800,Sunny
+02/02/2015,0,Clear
+02/02/2015,600,Clear
+02/02/2015,1200,Sunny
+02/02/2015,1800,Patchy rain possible
+03/02/2015,0,Patchy rain possible
+03/02/2015,600,Light rain shower
+03/02/2015,1200,Patchy light drizzle
+03/02/2015,1800,Patchy rain possible
+04/02/2015,0,Light rain
+04/02/2015,600,Patchy rain possible
+04/02/2015,1200,Light drizzle
+04/02/2015,1800,Light rain
+05/02/2015,0,Moderate rain
+05/02/2015,600,Light rain
+05/02/2015,1200,Moderate rain
+05/02/2015,1800,Light rain shower
+06/02/2015,0,Heavy rain
+06/02/2015,600,Patchy light drizzle
+06/02/2015,1200,Patchy light drizzle
+06/02/2015,1800,Partly cloudy
+07/02/2015,0,Partly cloudy
+07/02/2015,600,Clear
+07/02/2015,1200,Partly cloudy
+07/02/2015,1800,Sunny
+08/02/2015,0,Clear
+08/02/2015,600,Clear
+08/02/2015,1200,Sunny
+08/02/2015,1800,Sunny
+09/02/2015,0,Clear
+09/02/2015,600,Clear
+09/02/2015,1200,Sunny
+09/02/2015,1800,Sunny
+10/02/2015,0,Partly cloudy
+10/02/2015,600,Cloudy
+10/02/2015,1200,Sunny
+10/02/2015,1800,Sunny
+11/02/2015,0,Clear
+11/02/2015,600,Clear
+11/02/2015,1200,Sunny
+11/02/2015,1800,Sunny
+12/02/2015,0,Clear
+12/02/2015,600,Clear
+12/02/2015,1200,Sunny
+12/02/2015,1800,Sunny
+13/02/2015,0,Clear
+13/02/2015,600,Partly cloudy
+13/02/2015,1200,Cloudy
+13/02/2015,1800,Patchy rain possible
+14/02/2015,0,Partly cloudy
+14/02/2015,600,Overcast
+14/02/2015,1200,Light rain shower
+14/02/2015,1800,Light rain shower
+15/02/2015,0,Moderate or heavy rain with thunder
+15/02/2015,600,Light drizzle
+15/02/2015,1200,Patchy rain possible
+15/02/2015,1800,Light rain shower
+16/02/2015,0,Light rain shower
+16/02/2015,600,Patchy rain possible
+16/02/2015,1200,Light rain
+16/02/2015,1800,Patchy light rain
+17/02/2015,0,Patchy light drizzle
+17/02/2015,600,Clear
+17/02/2015,1200,Sunny
+17/02/2015,1800,Sunny
+18/02/2015,0,Clear
+18/02/2015,600,Clear
+18/02/2015,1200,Sunny
+18/02/2015,1800,Sunny
+19/02/2015,0,Clear
+19/02/2015,600,Clear
+19/02/2015,1200,Sunny
+19/02/2015,1800,Sunny
+20/02/2015,0,Partly cloudy
+20/02/2015,600,Partly cloudy
+20/02/2015,1200,Partly cloudy
+20/02/2015,1800,Sunny
+21/02/2015,0,Overcast
+21/02/2015,600,Cloudy
+21/02/2015,1200,Light rain
+21/02/2015,1800,Light rain
+22/02/2015,0,Moderate or heavy rain with thunder
+22/02/2015,600,Moderate or heavy rain with thunder
+22/02/2015,1200,Partly cloudy
+22/02/2015,1800,Partly cloudy
+23/02/2015,0,Clear
+23/02/2015,600,Clear
+23/02/2015,1200,Sunny
+23/02/2015,1800,Cloudy
+24/02/2015,0,Partly cloudy
+24/02/2015,600,Light drizzle
+24/02/2015,1200,Light drizzle
+24/02/2015,1800,Light rain
+25/02/2015,0,Patchy rain possible
+25/02/2015,600,Partly cloudy
+25/02/2015,1200,Patchy light drizzle
+25/02/2015,1800,Cloudy
+26/02/2015,0,Partly cloudy
+26/02/2015,600,Partly cloudy
+26/02/2015,1200,Partly cloudy
+26/02/2015,1800,Sunny
+27/02/2015,0,Patchy light drizzle
+27/02/2015,600,Clear
+27/02/2015,1200,Sunny
+27/02/2015,1800,Sunny
+28/02/2015,0,Partly cloudy
+28/02/2015,600,Partly cloudy
+28/02/2015,1200,Partly cloudy
+28/02/2015,1800,Sunny
+01/03/2015,0,Clear
+01/03/2015,600,Clear
+01/03/2015,1200,Light rain shower
+01/03/2015,1800,Light drizzle
+02/03/2015,0,Light drizzle
+02/03/2015,600,Patchy rain possible
+02/03/2015,1200,Light rain
+02/03/2015,1800,Cloudy
+03/03/2015,0,Clear
+03/03/2015,600,Clear
+03/03/2015,1200,Sunny
+03/03/2015,1800,Sunny
+04/03/2015,0,Clear
+04/03/2015,600,Cloudy
+04/03/2015,1200,Light rain shower
+04/03/2015,1800,Moderate rain
+05/03/2015,0,Moderate rain
+05/03/2015,600,Patchy rain possible
+05/03/2015,1200,Partly cloudy
+05/03/2015,1800,Partly cloudy
+06/03/2015,0,Clear
+06/03/2015,600,Clear
+06/03/2015,1200,Sunny
+06/03/2015,1800,Sunny
+07/03/2015,0,Clear
+07/03/2015,600,Clear
+07/03/2015,1200,Sunny
+07/03/2015,1800,Sunny
+08/03/2015,0,Clear
+08/03/2015,600,Clear
+08/03/2015,1200,Sunny
+08/03/2015,1800,Sunny
+09/03/2015,0,Clear
+09/03/2015,600,Clear
+09/03/2015,1200,Sunny
+09/03/2015,1800,Sunny
+10/03/2015,0,Clear
+10/03/2015,600,Clear
+10/03/2015,1200,Sunny
+10/03/2015,1800,Sunny
+11/03/2015,0,Clear
+11/03/2015,600,Cloudy
+11/03/2015,1200,Sunny
+11/03/2015,1800,Sunny
+12/03/2015,0,Clear
+12/03/2015,600,Clear
+12/03/2015,1200,Sunny
+12/03/2015,1800,Sunny
+13/03/2015,0,Clear
+13/03/2015,600,Clear
+13/03/2015,1200,Sunny
+13/03/2015,1800,Sunny
+14/03/2015,0,Clear
+14/03/2015,600,Light rain shower
+14/03/2015,1200,Overcast
+14/03/2015,1800,Patchy rain possible
+15/03/2015,0,Patchy rain possible
+15/03/2015,600,Overcast
+15/03/2015,1200,Light rain
+15/03/2015,1800,Light rain
+16/03/2015,0,Patchy rain possible
+16/03/2015,600,Light rain
+16/03/2015,1200,Moderate rain
+16/03/2015,1800,Patchy light drizzle
+17/03/2015,0,Light rain
+17/03/2015,600,Light rain
+17/03/2015,1200,Patchy light drizzle
+17/03/2015,1800,Sunny
+18/03/2015,0,Clear
+18/03/2015,600,Clear
+18/03/2015,1200,Sunny
+18/03/2015,1800,Sunny
+19/03/2015,0,Clear
+19/03/2015,600,Clear
+19/03/2015,1200,Sunny
+19/03/2015,1800,Sunny
+20/03/2015,0,Clear
+20/03/2015,600,Clear
+20/03/2015,1200,Sunny
+20/03/2015,1800,Sunny
+21/03/2015,0,Clear
+21/03/2015,600,Clear
+21/03/2015,1200,Partly cloudy
+21/03/2015,1800,Light drizzle
+22/03/2015,0,Patchy rain possible
+22/03/2015,600,Cloudy
+22/03/2015,1200,Partly cloudy
+22/03/2015,1800,Sunny
+23/03/2015,0,Partly cloudy
+23/03/2015,600,Partly cloudy
+23/03/2015,1200,Sunny
+23/03/2015,1800,Partly cloudy
+24/03/2015,0,Cloudy
+24/03/2015,600,Patchy rain possible
+24/03/2015,1200,Light rain shower
+24/03/2015,1800,Patchy rain possible
+25/03/2015,0,Patchy rain possible
+25/03/2015,600,Patchy rain possible
+25/03/2015,1200,Light rain
+25/03/2015,1800,Light rain
+26/03/2015,0,Moderate rain
+26/03/2015,600,Light rain
+26/03/2015,1200,Light rain
+26/03/2015,1800,Partly cloudy
+27/03/2015,0,Partly cloudy
+27/03/2015,600,Partly cloudy
+27/03/2015,1200,Moderate or heavy rain shower
+27/03/2015,1800,Sunny
+28/03/2015,0,Clear
+28/03/2015,600,Clear
+28/03/2015,1200,Sunny
+28/03/2015,1800,Sunny
+29/03/2015,0,Partly cloudy
+29/03/2015,600,Clear
+29/03/2015,1200,Sunny
+29/03/2015,1800,Sunny
+30/03/2015,0,Clear
+30/03/2015,600,Cloudy
+30/03/2015,1200,Partly cloudy
+30/03/2015,1800,Sunny
+31/03/2015,0,Clear
+31/03/2015,600,Clear
+31/03/2015,1200,Sunny
+31/03/2015,1800,Partly cloudy
+01/04/2015,0,Clear
+01/04/2015,600,Clear
+01/04/2015,1200,Sunny
+01/04/2015,1800,Sunny
+02/04/2015,0,Clear
+02/04/2015,600,Clear
+02/04/2015,1200,Sunny
+02/04/2015,1800,Sunny
+03/04/2015,0,Clear
+03/04/2015,600,Clear
+03/04/2015,1200,Sunny
+03/04/2015,1800,Partly cloudy
+04/04/2015,0,Cloudy
+04/04/2015,600,Light rain shower
+04/04/2015,1200,Light rain shower
+04/04/2015,1800,Light rain shower
+05/04/2015,0,Partly cloudy
+05/04/2015,600,Partly cloudy
+05/04/2015,1200,Partly cloudy
+05/04/2015,1800,Sunny
+06/04/2015,0,Clear
+06/04/2015,600,Clear
+06/04/2015,1200,Partly cloudy
+06/04/2015,1800,Partly cloudy
+07/04/2015,0,Partly cloudy
+07/04/2015,600,Clear
+07/04/2015,1200,Sunny
+07/04/2015,1800,Sunny
+08/04/2015,0,Clear
+08/04/2015,600,Clear
+08/04/2015,1200,Sunny
+08/04/2015,1800,Sunny
+09/04/2015,0,Clear
+09/04/2015,600,Clear
+09/04/2015,1200,Sunny
+09/04/2015,1800,Sunny
+10/04/2015,0,Clear
+10/04/2015,600,Clear
+10/04/2015,1200,Sunny
+10/04/2015,1800,Overcast
+11/04/2015,0,Partly cloudy
+11/04/2015,600,Partly cloudy
+11/04/2015,1200,Partly cloudy
+11/04/2015,1800,Sunny
+12/04/2015,0,Clear
+12/04/2015,600,Clear
+12/04/2015,1200,Sunny
+12/04/2015,1800,Sunny
+13/04/2015,0,Clear
+13/04/2015,600,Clear
+13/04/2015,1200,Sunny
+13/04/2015,1800,Sunny
+14/04/2015,0,Clear
+14/04/2015,600,Clear
+14/04/2015,1200,Sunny
+14/04/2015,1800,Sunny
+15/04/2015,0,Clear
+15/04/2015,600,Clear
+15/04/2015,1200,Sunny
+15/04/2015,1800,Sunny
+16/04/2015,0,Clear
+16/04/2015,600,Overcast
+16/04/2015,1200,Overcast
+16/04/2015,1800,Sunny
+17/04/2015,0,Light rain
+17/04/2015,600,Partly cloudy
+17/04/2015,1200,Light rain shower
+17/04/2015,1800,Patchy rain possible
+18/04/2015,0,Patchy rain possible
+18/04/2015,600,Light rain shower
+18/04/2015,1200,Patchy rain possible
+18/04/2015,1800,Sunny
+19/04/2015,0,Partly cloudy
+19/04/2015,600,Partly cloudy
+19/04/2015,1200,Cloudy
+19/04/2015,1800,Partly cloudy
+20/04/2015,0,Partly cloudy
+20/04/2015,600,Clear
+20/04/2015,1200,Sunny
+20/04/2015,1800,Sunny
+21/04/2015,0,Clear
+21/04/2015,600,Clear
+21/04/2015,1200,Sunny
+21/04/2015,1800,Sunny
+22/04/2015,0,Clear
+22/04/2015,600,Clear
+22/04/2015,1200,Sunny
+22/04/2015,1800,Sunny
+23/04/2015,0,Clear
+23/04/2015,600,Cloudy
+23/04/2015,1200,Sunny
+23/04/2015,1800,Sunny
+24/04/2015,0,Partly cloudy
+24/04/2015,600,Partly cloudy
+24/04/2015,1200,Sunny
+24/04/2015,1800,Sunny
+25/04/2015,0,Clear
+25/04/2015,600,Clear
+25/04/2015,1200,Partly cloudy
+25/04/2015,1800,Sunny
+26/04/2015,0,Clear
+26/04/2015,600,Cloudy
+26/04/2015,1200,Light rain shower
+26/04/2015,1800,Patchy rain possible
+27/04/2015,0,Overcast
+27/04/2015,600,Light rain shower
+27/04/2015,1200,Moderate or heavy rain shower
+27/04/2015,1800,Moderate or heavy rain shower
+28/04/2015,0,Light rain
+28/04/2015,600,Patchy light rain
+28/04/2015,1200,Patchy light drizzle
+28/04/2015,1800,Patchy rain possible
+29/04/2015,0,Patchy light drizzle
+29/04/2015,600,Partly cloudy
+29/04/2015,1200,Sunny
+29/04/2015,1800,Patchy rain possible
+30/04/2015,0,Overcast
+30/04/2015,600,Light rain shower
+30/04/2015,1200,Patchy rain possible
+30/04/2015,1800,Sunny
+01/05/2015,0,Partly cloudy
+01/05/2015,600,Patchy rain possible
+01/05/2015,1200,Partly cloudy
+01/05/2015,1800,Partly cloudy
+02/05/2015,0,Light drizzle
+02/05/2015,600,Light drizzle
+02/05/2015,1200,Light rain shower
+02/05/2015,1800,Sunny
+03/05/2015,0,Cloudy
+03/05/2015,600,Cloudy
+03/05/2015,1200,Partly cloudy
+03/05/2015,1800,Sunny
+04/05/2015,0,Clear
+04/05/2015,600,Clear
+04/05/2015,1200,Partly cloudy
+04/05/2015,1800,Sunny
+05/05/2015,0,Partly cloudy
+05/05/2015,600,Clear
+05/05/2015,1200,Partly cloudy
+05/05/2015,1800,Sunny
+06/05/2015,0,Clear
+06/05/2015,600,Partly cloudy
+06/05/2015,1200,Partly cloudy
+06/05/2015,1800,Sunny
+07/05/2015,0,Clear
+07/05/2015,600,Clear
+07/05/2015,1200,Cloudy
+07/05/2015,1800,Sunny
+08/05/2015,0,Clear
+08/05/2015,600,Clear
+08/05/2015,1200,Partly cloudy
+08/05/2015,1800,Sunny
+09/05/2015,0,Clear
+09/05/2015,600,Clear
+09/05/2015,1200,Sunny
+09/05/2015,1800,Sunny
+10/05/2015,0,Clear
+10/05/2015,600,Clear
+10/05/2015,1200,Sunny
+10/05/2015,1800,Sunny
+11/05/2015,0,Clear
+11/05/2015,600,Clear
+11/05/2015,1200,Sunny
+11/05/2015,1800,Sunny
+12/05/2015,0,Clear
+12/05/2015,600,Clear
+12/05/2015,1200,Sunny
+12/05/2015,1800,Sunny
+13/05/2015,0,Clear
+13/05/2015,600,Clear
+13/05/2015,1200,Partly cloudy
+13/05/2015,1800,Sunny
+14/05/2015,0,Clear
+14/05/2015,600,Clear
+14/05/2015,1200,Sunny
+14/05/2015,1800,Sunny
+15/05/2015,0,Patchy rain possible
+15/05/2015,600,Patchy rain possible
+15/05/2015,1200,Light rain shower
+15/05/2015,1800,Light rain shower
+16/05/2015,0,Partly cloudy
+16/05/2015,600,Overcast
+16/05/2015,1200,Thundery outbreaks possible
+16/05/2015,1800,Moderate or heavy rain shower
+17/05/2015,0,Clear
+17/05/2015,600,Clear
+17/05/2015,1200,Sunny
+17/05/2015,1800,Sunny
+18/05/2015,0,Clear
+18/05/2015,600,Clear
+18/05/2015,1200,Sunny
+18/05/2015,1800,Sunny
+19/05/2015,0,Clear
+19/05/2015,600,Cloudy
+19/05/2015,1200,Sunny
+19/05/2015,1800,Partly cloudy
+20/05/2015,0,Clear
+20/05/2015,600,Cloudy
+20/05/2015,1200,Patchy rain possible
+20/05/2015,1800,Sunny
+21/05/2015,0,Clear
+21/05/2015,600,Clear
+21/05/2015,1200,Sunny
+21/05/2015,1800,Sunny
+22/05/2015,0,Patchy rain possible
+22/05/2015,600,Moderate rain
+22/05/2015,1200,Patchy light rain
+22/05/2015,1800,Patchy light drizzle
+23/05/2015,0,Patchy rain possible
+23/05/2015,600,Patchy light drizzle
+23/05/2015,1200,Patchy light drizzle
+23/05/2015,1800,Patchy light drizzle
+24/05/2015,0,Patchy rain possible
+24/05/2015,600,Partly cloudy
+24/05/2015,1200,Partly cloudy
+24/05/2015,1800,Sunny
+25/05/2015,0,Clear
+25/05/2015,600,Clear
+25/05/2015,1200,Sunny
+25/05/2015,1800,Sunny
+26/05/2015,0,Clear
+26/05/2015,600,Clear
+26/05/2015,1200,Sunny
+26/05/2015,1800,Patchy rain possible
+27/05/2015,0,Patchy rain possible
+27/05/2015,600,Cloudy
+27/05/2015,1200,Partly cloudy
+27/05/2015,1800,Sunny
+28/05/2015,0,Clear
+28/05/2015,600,Clear
+28/05/2015,1200,Sunny
+28/05/2015,1800,Sunny
+29/05/2015,0,Clear
+29/05/2015,600,Clear
+29/05/2015,1200,Sunny
+29/05/2015,1800,Sunny
+30/05/2015,0,Clear
+30/05/2015,600,Partly cloudy
+30/05/2015,1200,Sunny
+30/05/2015,1800,Sunny
+31/05/2015,0,Clear
+31/05/2015,600,Clear
+31/05/2015,1200,Sunny
+31/05/2015,1800,Sunny
+01/06/2015,0,Clear
+01/06/2015,600,Clear
+01/06/2015,1200,Sunny
+01/06/2015,1800,Sunny
+02/06/2015,0,Clear
+02/06/2015,600,Clear
+02/06/2015,1200,Sunny
+02/06/2015,1800,Sunny
+03/06/2015,0,Clear
+03/06/2015,600,Clear
+03/06/2015,1200,Sunny
+03/06/2015,1800,Sunny
+04/06/2015,0,Clear
+04/06/2015,600,Clear
+04/06/2015,1200,Sunny
+04/06/2015,1800,Sunny
+05/06/2015,0,Clear
+05/06/2015,600,Clear
+05/06/2015,1200,Sunny
+05/06/2015,1800,Sunny
+06/06/2015,0,Clear
+06/06/2015,600,Clear
+06/06/2015,1200,Sunny
+06/06/2015,1800,Sunny
+07/06/2015,0,Clear
+07/06/2015,600,Clear
+07/06/2015,1200,Sunny
+07/06/2015,1800,Sunny
+08/06/2015,0,Clear
+08/06/2015,600,Clear
+08/06/2015,1200,Sunny
+08/06/2015,1800,Sunny
+09/06/2015,0,Clear
+09/06/2015,600,Clear
+09/06/2015,1200,Sunny
+09/06/2015,1800,Sunny
+10/06/2015,0,Clear
+10/06/2015,600,Clear
+10/06/2015,1200,Sunny
+10/06/2015,1800,Sunny
+11/06/2015,0,Clear
+11/06/2015,600,Clear
+11/06/2015,1200,Sunny
+11/06/2015,1800,Sunny
+12/06/2015,0,Clear
+12/06/2015,600,Clear
+12/06/2015,1200,Sunny
+12/06/2015,1800,Partly cloudy
+13/06/2015,0,Patchy rain possible
+13/06/2015,600,Clear
+13/06/2015,1200,Sunny
+13/06/2015,1800,Sunny
+14/06/2015,0,Clear
+14/06/2015,600,Partly cloudy
+14/06/2015,1200,Patchy rain possible
+14/06/2015,1800,Patchy rain possible
+15/06/2015,0,Partly cloudy
+15/06/2015,600,Patchy rain possible
+15/06/2015,1200,Sunny
+15/06/2015,1800,Sunny
+16/06/2015,0,Patchy rain possible
+16/06/2015,600,Partly cloudy
+16/06/2015,1200,Sunny
+16/06/2015,1800,Sunny
+17/06/2015,0,Clear
+17/06/2015,600,Clear
+17/06/2015,1200,Light rain shower
+17/06/2015,1800,Sunny
+18/06/2015,0,Clear
+18/06/2015,600,Clear
+18/06/2015,1200,Sunny
+18/06/2015,1800,Sunny
+19/06/2015,0,Clear
+19/06/2015,600,Clear
+19/06/2015,1200,Sunny
+19/06/2015,1800,Sunny
+20/06/2015,0,Clear
+20/06/2015,600,Clear
+20/06/2015,1200,Sunny
+20/06/2015,1800,Patchy rain possible
+21/06/2015,0,Clear
+21/06/2015,600,Clear
+21/06/2015,1200,Sunny
+21/06/2015,1800,Sunny
+22/06/2015,0,Clear
+22/06/2015,600,Clear
+22/06/2015,1200,Sunny
+22/06/2015,1800,Sunny
+23/06/2015,0,Patchy rain possible
+23/06/2015,600,Partly cloudy
+23/06/2015,1200,Partly cloudy
+23/06/2015,1800,Partly cloudy
+24/06/2015,0,Clear
+24/06/2015,600,Partly cloudy
+24/06/2015,1200,Sunny
+24/06/2015,1800,Sunny
+25/06/2015,0,Clear
+25/06/2015,600,Clear
+25/06/2015,1200,Sunny
+25/06/2015,1800,Sunny
+26/06/2015,0,Clear
+26/06/2015,600,Clear
+26/06/2015,1200,Sunny
+26/06/2015,1800,Sunny
+27/06/2015,0,Clear
+27/06/2015,600,Clear
+27/06/2015,1200,Sunny
+27/06/2015,1800,Sunny
+28/06/2015,0,Clear
+28/06/2015,600,Clear
+28/06/2015,1200,Sunny
+28/06/2015,1800,Sunny
+29/06/2015,0,Clear
+29/06/2015,600,Clear
+29/06/2015,1200,Sunny
+29/06/2015,1800,Sunny
+30/06/2015,0,Clear
+30/06/2015,600,Clear
+30/06/2015,1200,Sunny
+30/06/2015,1800,Sunny
+01/07/2015,0,Clear
+01/07/2015,600,Clear
+01/07/2015,1200,Sunny
+01/07/2015,1800,Sunny
+02/07/2015,0,Clear
+02/07/2015,600,Clear
+02/07/2015,1200,Sunny
+02/07/2015,1800,Sunny
+03/07/2015,0,Clear
+03/07/2015,600,Clear
+03/07/2015,1200,Sunny
+03/07/2015,1800,Sunny
+04/07/2015,0,Clear
+04/07/2015,600,Clear
+04/07/2015,1200,Sunny
+04/07/2015,1800,Sunny
+05/07/2015,0,Clear
+05/07/2015,600,Clear
+05/07/2015,1200,Sunny
+05/07/2015,1800,Sunny
+06/07/2015,0,Clear
+06/07/2015,600,Clear
+06/07/2015,1200,Sunny
+06/07/2015,1800,Partly cloudy
+07/07/2015,0,Clear
+07/07/2015,600,Clear
+07/07/2015,1200,Sunny
+07/07/2015,1800,Sunny
+08/07/2015,0,Clear
+08/07/2015,600,Clear
+08/07/2015,1200,Sunny
+08/07/2015,1800,Sunny
+09/07/2015,0,Clear
+09/07/2015,600,Clear
+09/07/2015,1200,Partly cloudy
+09/07/2015,1800,Sunny
+10/07/2015,0,Clear
+10/07/2015,600,Clear
+10/07/2015,1200,Sunny
+10/07/2015,1800,Sunny
+11/07/2015,0,Clear
+11/07/2015,600,Clear
+11/07/2015,1200,Sunny
+11/07/2015,1800,Sunny
+12/07/2015,0,Clear
+12/07/2015,600,Clear
+12/07/2015,1200,Sunny
+12/07/2015,1800,Sunny
+13/07/2015,0,Clear
+13/07/2015,600,Clear
+13/07/2015,1200,Sunny
+13/07/2015,1800,Sunny
+14/07/2015,0,Clear
+14/07/2015,600,Clear
+14/07/2015,1200,Sunny
+14/07/2015,1800,Sunny
+15/07/2015,0,Clear
+15/07/2015,600,Clear
+15/07/2015,1200,Sunny
+15/07/2015,1800,Sunny
+16/07/2015,0,Clear
+16/07/2015,600,Clear
+16/07/2015,1200,Sunny
+16/07/2015,1800,Sunny
+17/07/2015,0,Clear
+17/07/2015,600,Clear
+17/07/2015,1200,Sunny
+17/07/2015,1800,Sunny
+18/07/2015,0,Clear
+18/07/2015,600,Clear
+18/07/2015,1200,Sunny
+18/07/2015,1800,Sunny
+19/07/2015,0,Clear
+19/07/2015,600,Clear
+19/07/2015,1200,Sunny
+19/07/2015,1800,Sunny
+20/07/2015,0,Clear
+20/07/2015,600,Clear
+20/07/2015,1200,Sunny
+20/07/2015,1800,Sunny
+21/07/2015,0,Clear
+21/07/2015,600,Clear
+21/07/2015,1200,Sunny
+21/07/2015,1800,Sunny
+22/07/2015,0,Clear
+22/07/2015,600,Clear
+22/07/2015,1200,Sunny
+22/07/2015,1800,Sunny
+23/07/2015,0,Clear
+23/07/2015,600,Clear
+23/07/2015,1200,Sunny
+23/07/2015,1800,Sunny
+24/07/2015,0,Clear
+24/07/2015,600,Clear
+24/07/2015,1200,Sunny
+24/07/2015,1800,Sunny
+25/07/2015,0,Clear
+25/07/2015,600,Light rain shower
+25/07/2015,1200,Sunny
+25/07/2015,1800,Patchy rain possible
+26/07/2015,0,Clear
+26/07/2015,600,Clear
+26/07/2015,1200,Sunny
+26/07/2015,1800,Sunny
+27/07/2015,0,Cloudy
+27/07/2015,600,Light rain shower
+27/07/2015,1200,Patchy rain possible
+27/07/2015,1800,Sunny
+28/07/2015,0,Clear
+28/07/2015,600,Clear
+28/07/2015,1200,Sunny
+28/07/2015,1800,Sunny
+29/07/2015,0,Clear
+29/07/2015,600,Clear
+29/07/2015,1200,Sunny
+29/07/2015,1800,Sunny
+30/07/2015,0,Clear
+30/07/2015,600,Clear
+30/07/2015,1200,Sunny
+30/07/2015,1800,Sunny
+31/07/2015,0,Clear
+31/07/2015,600,Clear
+31/07/2015,1200,Partly cloudy
+31/07/2015,1800,Sunny
+01/08/2015,0,Clear
+01/08/2015,600,Clear
+01/08/2015,1200,Partly cloudy
+01/08/2015,1800,Patchy rain possible
+02/08/2015,0,Clear
+02/08/2015,600,Clear
+02/08/2015,1200,Sunny
+02/08/2015,1800,Sunny
+03/08/2015,0,Clear
+03/08/2015,600,Clear
+03/08/2015,1200,Sunny
+03/08/2015,1800,Sunny
+04/08/2015,0,Clear
+04/08/2015,600,Clear
+04/08/2015,1200,Sunny
+04/08/2015,1800,Partly cloudy
+05/08/2015,0,Clear
+05/08/2015,600,Clear
+05/08/2015,1200,Sunny
+05/08/2015,1800,Sunny
+06/08/2015,0,Clear
+06/08/2015,600,Clear
+06/08/2015,1200,Sunny
+06/08/2015,1800,Sunny
+07/08/2015,0,Clear
+07/08/2015,600,Clear
+07/08/2015,1200,Sunny
+07/08/2015,1800,Sunny
+08/08/2015,0,Clear
+08/08/2015,600,Clear
+08/08/2015,1200,Sunny
+08/08/2015,1800,Sunny
+09/08/2015,0,Clear
+09/08/2015,600,Clear
+09/08/2015,1200,Sunny
+09/08/2015,1800,Sunny
+10/08/2015,0,Clear
+10/08/2015,600,Partly cloudy
+10/08/2015,1200,Sunny
+10/08/2015,1800,Patchy light rain with thunder
+11/08/2015,0,Patchy rain possible
+11/08/2015,600,Clear
+11/08/2015,1200,Partly cloudy
+11/08/2015,1800,Partly cloudy
+12/08/2015,0,Clear
+12/08/2015,600,Clear
+12/08/2015,1200,Sunny
+12/08/2015,1800,Sunny
+13/08/2015,0,Clear
+13/08/2015,600,Clear
+13/08/2015,1200,Sunny
+13/08/2015,1800,Sunny
+14/08/2015,0,Clear
+14/08/2015,600,Clear
+14/08/2015,1200,Sunny
+14/08/2015,1800,Sunny
+15/08/2015,0,Patchy rain possible
+15/08/2015,600,Patchy rain possible
+15/08/2015,1200,Sunny
+15/08/2015,1800,Patchy rain possible
+16/08/2015,0,Patchy rain possible
+16/08/2015,600,Clear
+16/08/2015,1200,Sunny
+16/08/2015,1800,Sunny
+17/08/2015,0,Clear
+17/08/2015,600,Patchy rain possible
+17/08/2015,1200,Sunny
+17/08/2015,1800,Sunny
+18/08/2015,0,Patchy rain possible
+18/08/2015,600,Cloudy
+18/08/2015,1200,Sunny
+18/08/2015,1800,Partly cloudy
+19/08/2015,0,Light rain shower
+19/08/2015,600,Patchy light rain with thunder
+19/08/2015,1200,Sunny
+19/08/2015,1800,Sunny
+20/08/2015,0,Clear
+20/08/2015,600,Clear
+20/08/2015,1200,Sunny
+20/08/2015,1800,Sunny
+21/08/2015,0,Clear
+21/08/2015,600,Clear
+21/08/2015,1200,Partly cloudy
+21/08/2015,1800,Sunny
+22/08/2015,0,Clear
+22/08/2015,600,Clear
+22/08/2015,1200,Sunny
+22/08/2015,1800,Sunny
+23/08/2015,0,Clear
+23/08/2015,600,Clear
+23/08/2015,1200,Sunny
+23/08/2015,1800,Partly cloudy
+24/08/2015,0,Moderate or heavy rain shower
+24/08/2015,600,Patchy rain possible
+24/08/2015,1200,Patchy rain possible
+24/08/2015,1800,Sunny
+25/08/2015,0,Clear
+25/08/2015,600,Clear
+25/08/2015,1200,Sunny
+25/08/2015,1800,Sunny
+26/08/2015,0,Clear
+26/08/2015,600,Clear
+26/08/2015,1200,Sunny
+26/08/2015,1800,Sunny
+27/08/2015,0,Clear
+27/08/2015,600,Clear
+27/08/2015,1200,Sunny
+27/08/2015,1800,Sunny
+28/08/2015,0,Clear
+28/08/2015,600,Clear
+28/08/2015,1200,Sunny
+28/08/2015,1800,Sunny
+29/08/2015,0,Clear
+29/08/2015,600,Clear
+29/08/2015,1200,Sunny
+29/08/2015,1800,Sunny
+30/08/2015,0,Clear
+30/08/2015,600,Clear
+30/08/2015,1200,Sunny
+30/08/2015,1800,Sunny
+31/08/2015,0,Clear
+31/08/2015,600,Clear
+31/08/2015,1200,Sunny
+31/08/2015,1800,Sunny
+01/09/2015,0,Clear
+01/09/2015,600,Clear
+01/09/2015,1200,Sunny
+01/09/2015,1800,Sunny
+02/09/2015,0,Clear
+02/09/2015,600,Clear
+02/09/2015,1200,Sunny
+02/09/2015,1800,Sunny
+03/09/2015,0,Clear
+03/09/2015,600,Clear
+03/09/2015,1200,Partly cloudy
+03/09/2015,1800,Sunny
+04/09/2015,0,Partly cloudy
+04/09/2015,600,Patchy rain possible
+04/09/2015,1200,Sunny
+04/09/2015,1800,Partly cloudy
+05/09/2015,0,Partly cloudy
+05/09/2015,600,Light rain shower
+05/09/2015,1200,Sunny
+05/09/2015,1800,Sunny
+06/09/2015,0,Clear
+06/09/2015,600,Clear
+06/09/2015,1200,Sunny
+06/09/2015,1800,Sunny
+07/09/2015,0,Clear
+07/09/2015,600,Clear
+07/09/2015,1200,Sunny
+07/09/2015,1800,Sunny
+08/09/2015,0,Clear
+08/09/2015,600,Clear
+08/09/2015,1200,Sunny
+08/09/2015,1800,Sunny
+09/09/2015,0,Clear
+09/09/2015,600,Clear
+09/09/2015,1200,Sunny
+09/09/2015,1800,Sunny
+10/09/2015,0,Clear
+10/09/2015,600,Clear
+10/09/2015,1200,Sunny
+10/09/2015,1800,Sunny
+11/09/2015,0,Clear
+11/09/2015,600,Clear
+11/09/2015,1200,Sunny
+11/09/2015,1800,Sunny
+12/09/2015,0,Clear
+12/09/2015,600,Clear
+12/09/2015,1200,Partly cloudy
+12/09/2015,1800,Patchy rain possible
+13/09/2015,0,Clear
+13/09/2015,600,Light rain shower
+13/09/2015,1200,Moderate rain at times
+13/09/2015,1800,Moderate or heavy rain shower
+14/09/2015,0,Moderate or heavy rain shower
+14/09/2015,600,Patchy rain possible
+14/09/2015,1200,Sunny
+14/09/2015,1800,Sunny
+15/09/2015,0,Clear
+15/09/2015,600,Clear
+15/09/2015,1200,Sunny
+15/09/2015,1800,Sunny
+16/09/2015,0,Patchy rain possible
+16/09/2015,600,Light rain shower
+16/09/2015,1200,Sunny
+16/09/2015,1800,Patchy rain possible
+17/09/2015,0,Light drizzle
+17/09/2015,600,Cloudy
+17/09/2015,1200,Partly cloudy
+17/09/2015,1800,Patchy rain possible
+18/09/2015,0,Cloudy
+18/09/2015,600,Cloudy
+18/09/2015,1200,Sunny
+18/09/2015,1800,Cloudy
+19/09/2015,0,Clear
+19/09/2015,600,Partly cloudy
+19/09/2015,1200,Partly cloudy
+19/09/2015,1800,Sunny
+20/09/2015,0,Clear
+20/09/2015,600,Clear
+20/09/2015,1200,Partly cloudy
+20/09/2015,1800,Sunny
+21/09/2015,0,Clear
+21/09/2015,600,Clear
+21/09/2015,1200,Sunny
+21/09/2015,1800,Sunny
+22/09/2015,0,Clear
+22/09/2015,600,Clear
+22/09/2015,1200,Sunny
+22/09/2015,1800,Partly cloudy
+23/09/2015,0,Patchy rain possible
+23/09/2015,600,Patchy rain possible
+23/09/2015,1200,Patchy rain possible
+23/09/2015,1800,Sunny
+24/09/2015,0,Patchy rain possible
+24/09/2015,600,Clear
+24/09/2015,1200,Partly cloudy
+24/09/2015,1800,Partly cloudy
+25/09/2015,0,Partly cloudy
+25/09/2015,600,Clear
+25/09/2015,1200,Partly cloudy
+25/09/2015,1800,Sunny
+26/09/2015,0,Clear
+26/09/2015,600,Clear
+26/09/2015,1200,Partly cloudy
+26/09/2015,1800,Partly cloudy
+27/09/2015,0,Partly cloudy
+27/09/2015,600,Clear
+27/09/2015,1200,Partly cloudy
+27/09/2015,1800,Sunny
+28/09/2015,0,Clear
+28/09/2015,600,Partly cloudy
+28/09/2015,1200,Sunny
+28/09/2015,1800,Sunny
+29/09/2015,0,Clear
+29/09/2015,600,Partly cloudy
+29/09/2015,1200,Partly cloudy
+29/09/2015,1800,Sunny
+30/09/2015,0,Clear
+30/09/2015,600,Clear
+30/09/2015,1200,Sunny
+30/09/2015,1800,Sunny
+01/10/2015,0,Cloudy
+01/10/2015,600,Patchy light drizzle
+01/10/2015,1200,Moderate rain
+01/10/2015,1800,Moderate rain
+02/10/2015,0,Patchy rain possible
+02/10/2015,600,Light rain shower
+02/10/2015,1200,Light rain
+02/10/2015,1800,Moderate or heavy rain shower
+03/10/2015,0,Light rain shower
+03/10/2015,600,Patchy rain possible
+03/10/2015,1200,Patchy rain possible
+03/10/2015,1800,Sunny
+04/10/2015,0,Light rain shower
+04/10/2015,600,Light rain shower
+04/10/2015,1200,Patchy rain possible
+04/10/2015,1800,Partly cloudy
+05/10/2015,0,Partly cloudy
+05/10/2015,600,Cloudy
+05/10/2015,1200,Partly cloudy
+05/10/2015,1800,Partly cloudy
+06/10/2015,0,Light drizzle
+06/10/2015,600,Light rain shower
+06/10/2015,1200,Patchy rain possible
+06/10/2015,1800,Patchy rain possible
+07/10/2015,0,Patchy rain possible
+07/10/2015,600,Patchy rain possible
+07/10/2015,1200,Patchy rain possible
+07/10/2015,1800,Moderate or heavy rain shower
+08/10/2015,0,Moderate or heavy rain shower
+08/10/2015,600,Patchy rain possible
+08/10/2015,1200,Sunny
+08/10/2015,1800,Sunny
+09/10/2015,0,Clear
+09/10/2015,600,Clear
+09/10/2015,1200,Sunny
+09/10/2015,1800,Partly cloudy
+10/10/2015,0,Cloudy
+10/10/2015,600,Partly cloudy
+10/10/2015,1200,Patchy light drizzle
+10/10/2015,1800,Partly cloudy
+11/10/2015,0,Partly cloudy
+11/10/2015,600,Partly cloudy
+11/10/2015,1200,Sunny
+11/10/2015,1800,Sunny
+12/10/2015,0,Patchy rain possible
+12/10/2015,600,Cloudy
+12/10/2015,1200,Partly cloudy
+12/10/2015,1800,Light drizzle
+13/10/2015,0,Light rain shower
+13/10/2015,600,Light rain shower
+13/10/2015,1200,Moderate or heavy rain shower
+13/10/2015,1800,Patchy rain possible
+14/10/2015,0,Patchy rain possible
+14/10/2015,600,Light rain shower
+14/10/2015,1200,Moderate or heavy rain shower
+14/10/2015,1800,Patchy rain possible
+15/10/2015,0,Moderate rain at times
+15/10/2015,600,Clear
+15/10/2015,1200,Partly cloudy
+15/10/2015,1800,Sunny
+16/10/2015,0,Patchy rain possible
+16/10/2015,600,Light rain shower
+16/10/2015,1200,Partly cloudy
+16/10/2015,1800,Overcast
+17/10/2015,0,Light rain shower
+17/10/2015,600,Overcast
+17/10/2015,1200,Overcast
+17/10/2015,1800,Partly cloudy
+18/10/2015,0,Partly cloudy
+18/10/2015,600,Partly cloudy
+18/10/2015,1200,Partly cloudy
+18/10/2015,1800,Light rain
+19/10/2015,0,Patchy rain possible
+19/10/2015,600,Partly cloudy
+19/10/2015,1200,Sunny
+19/10/2015,1800,Sunny
+20/10/2015,0,Clear
+20/10/2015,600,Clear
+20/10/2015,1200,Sunny
+20/10/2015,1800,Sunny
+21/10/2015,0,Clear
+21/10/2015,600,Clear
+21/10/2015,1200,Sunny
+21/10/2015,1800,Sunny
+22/10/2015,0,Clear
+22/10/2015,600,Clear
+22/10/2015,1200,Sunny
+22/10/2015,1800,Sunny
+23/10/2015,0,Clear
+23/10/2015,600,Clear
+23/10/2015,1200,Sunny
+23/10/2015,1800,Sunny
+24/10/2015,0,Clear
+24/10/2015,600,Clear
+24/10/2015,1200,Sunny
+24/10/2015,1800,Partly cloudy
+25/10/2015,0,Cloudy
+25/10/2015,600,Cloudy
+25/10/2015,1200,Cloudy
+25/10/2015,1800,Sunny
+26/10/2015,0,Overcast
+26/10/2015,600,Clear
+26/10/2015,1200,Partly cloudy
+26/10/2015,1800,Sunny
+27/10/2015,0,Clear
+27/10/2015,600,Patchy rain possible
+27/10/2015,1200,Patchy rain possible
+27/10/2015,1800,Cloudy
+28/10/2015,0,Light rain shower
+28/10/2015,600,Moderate or heavy rain with thunder
+28/10/2015,1200,Light rain shower
+28/10/2015,1800,Light rain shower
+29/10/2015,0,Heavy rain
+29/10/2015,600,Patchy rain possible
+29/10/2015,1200,Patchy rain possible
+29/10/2015,1800,Sunny
+30/10/2015,0,Clear
+30/10/2015,600,Clear
+30/10/2015,1200,Sunny
+30/10/2015,1800,Sunny
+31/10/2015,0,Clear
+31/10/2015,600,Clear
+31/10/2015,1200,Sunny
+31/10/2015,1800,Sunny
+01/11/2015,0,Clear
+01/11/2015,600,Clear
+01/11/2015,1200,Sunny
+01/11/2015,1800,Sunny
+02/11/2015,0,Clear
+02/11/2015,600,Clear
+02/11/2015,1200,Sunny
+02/11/2015,1800,Sunny
+03/11/2015,0,Clear
+03/11/2015,600,Clear
+03/11/2015,1200,Sunny
+03/11/2015,1800,Overcast
+04/11/2015,0,Light drizzle
+04/11/2015,600,Patchy rain possible
+04/11/2015,1200,Patchy rain possible
+04/11/2015,1800,Light rain shower
+05/11/2015,0,Clear
+05/11/2015,600,Clear
+05/11/2015,1200,Sunny
+05/11/2015,1800,Sunny
+06/11/2015,0,Clear
+06/11/2015,600,Clear
+06/11/2015,1200,Sunny
+06/11/2015,1800,Sunny
+07/11/2015,0,Clear
+07/11/2015,600,Overcast
+07/11/2015,1200,Sunny
+07/11/2015,1800,Sunny
+08/11/2015,0,Partly cloudy
+08/11/2015,600,Overcast
+08/11/2015,1200,Sunny
+08/11/2015,1800,Sunny
+09/11/2015,0,Clear
+09/11/2015,600,Clear
+09/11/2015,1200,Partly cloudy
+09/11/2015,1800,Cloudy
+10/11/2015,0,Partly cloudy
+10/11/2015,600,Partly cloudy
+10/11/2015,1200,Partly cloudy
+10/11/2015,1800,Sunny
+11/11/2015,0,Mist
+11/11/2015,600,Partly cloudy
+11/11/2015,1200,Sunny
+11/11/2015,1800,Sunny
+12/11/2015,0,Clear
+12/11/2015,600,Clear
+12/11/2015,1200,Partly cloudy
+12/11/2015,1800,Sunny
+13/11/2015,0,Clear
+13/11/2015,600,Clear
+13/11/2015,1200,Cloudy
+13/11/2015,1800,Sunny
+14/11/2015,0,Cloudy
+14/11/2015,600,Light drizzle
+14/11/2015,1200,Patchy rain possible
+14/11/2015,1800,Sunny
+15/11/2015,0,Partly cloudy
+15/11/2015,600,Mist
+15/11/2015,1200,Cloudy
+15/11/2015,1800,Sunny
+16/11/2015,0,Clear
+16/11/2015,600,Clear
+16/11/2015,1200,Sunny
+16/11/2015,1800,Sunny
+17/11/2015,0,Clear
+17/11/2015,600,Clear
+17/11/2015,1200,Sunny
+17/11/2015,1800,Sunny
+18/11/2015,0,Cloudy
+18/11/2015,600,Partly cloudy
+18/11/2015,1200,Sunny
+18/11/2015,1800,Partly cloudy
+19/11/2015,0,Clear
+19/11/2015,600,Partly cloudy
+19/11/2015,1200,Partly cloudy
+19/11/2015,1800,Partly cloudy
+20/11/2015,0,Cloudy
+20/11/2015,600,Partly cloudy
+20/11/2015,1200,Partly cloudy
+20/11/2015,1800,Partly cloudy
+21/11/2015,0,Partly cloudy
+21/11/2015,600,Patchy rain possible
+21/11/2015,1200,Light rain shower
+21/11/2015,1800,Patchy rain possible
+22/11/2015,0,Moderate rain
+22/11/2015,600,Cloudy
+22/11/2015,1200,Sunny
+22/11/2015,1800,Partly cloudy
+23/11/2015,0,Clear
+23/11/2015,600,Partly cloudy
+23/11/2015,1200,Light drizzle
+23/11/2015,1800,Partly cloudy
+24/11/2015,0,Partly cloudy
+24/11/2015,600,Partly cloudy
+24/11/2015,1200,Sunny
+24/11/2015,1800,Sunny
+25/11/2015,0,Cloudy
+25/11/2015,600,Partly cloudy
+25/11/2015,1200,Patchy rain possible
+25/11/2015,1800,Light rain
+26/11/2015,0,Patchy rain possible
+26/11/2015,600,Cloudy
+26/11/2015,1200,Sunny
+26/11/2015,1800,Sunny
+27/11/2015,0,Clear
+27/11/2015,600,Partly cloudy
+27/11/2015,1200,Sunny
+27/11/2015,1800,Sunny
+28/11/2015,0,Clear
+28/11/2015,600,Clear
+28/11/2015,1200,Overcast
+28/11/2015,1800,Partly cloudy
+29/11/2015,0,Partly cloudy
+29/11/2015,600,Cloudy
+29/11/2015,1200,Partly cloudy
+29/11/2015,1800,Overcast
+30/11/2015,0,Clear
+30/11/2015,600,Partly cloudy
+30/11/2015,1200,Overcast
+30/11/2015,1800,Cloudy
+01/12/2015,0,Patchy rain possible
+01/12/2015,600,Cloudy
+01/12/2015,1200,Sunny
+01/12/2015,1800,Sunny
+02/12/2015,0,Clear
+02/12/2015,600,Clear
+02/12/2015,1200,Sunny
+02/12/2015,1800,Sunny
+03/12/2015,0,Clear
+03/12/2015,600,Partly cloudy
+03/12/2015,1200,Sunny
+03/12/2015,1800,Sunny
+04/12/2015,0,Clear
+04/12/2015,600,Cloudy
+04/12/2015,1200,Cloudy
+04/12/2015,1800,Cloudy
+05/12/2015,0,Partly cloudy
+05/12/2015,600,Partly cloudy
+05/12/2015,1200,Cloudy
+05/12/2015,1800,Sunny
+06/12/2015,0,Clear
+06/12/2015,600,Partly cloudy
+06/12/2015,1200,Overcast
+06/12/2015,1800,Cloudy
+07/12/2015,0,Partly cloudy
+07/12/2015,600,Partly cloudy
+07/12/2015,1200,Light drizzle
+07/12/2015,1800,Cloudy
+08/12/2015,0,Light rain shower
+08/12/2015,600,Patchy rain possible
+08/12/2015,1200,Partly cloudy
+08/12/2015,1800,Sunny
+09/12/2015,0,Clear
+09/12/2015,600,Clear
+09/12/2015,1200,Partly cloudy
+09/12/2015,1800,Sunny
+10/12/2015,0,Clear
+10/12/2015,600,Partly cloudy
+10/12/2015,1200,Sunny
+10/12/2015,1800,Sunny
+11/12/2015,0,Clear
+11/12/2015,600,Partly cloudy
+11/12/2015,1200,Sunny
+11/12/2015,1800,Partly cloudy
+12/12/2015,0,Light drizzle
+12/12/2015,600,Overcast
+12/12/2015,1200,Patchy rain possible
+12/12/2015,1800,Overcast
+13/12/2015,0,Light drizzle
+13/12/2015,600,Light drizzle
+13/12/2015,1200,Patchy rain possible
+13/12/2015,1800,Cloudy
+14/12/2015,0,Partly cloudy
+14/12/2015,600,Clear
+14/12/2015,1200,Sunny
+14/12/2015,1800,Sunny
+15/12/2015,0,Clear
+15/12/2015,600,Cloudy
+15/12/2015,1200,Cloudy
+15/12/2015,1800,Cloudy
+16/12/2015,0,Light drizzle
+16/12/2015,600,Light drizzle
+16/12/2015,1200,Partly cloudy
+16/12/2015,1800,Sunny
+17/12/2015,0,Clear
+17/12/2015,600,Clear
+17/12/2015,1200,Sunny
+17/12/2015,1800,Sunny
+18/12/2015,0,Clear
+18/12/2015,600,Partly cloudy
+18/12/2015,1200,Patchy rain possible
+18/12/2015,1800,Overcast
+19/12/2015,0,Light rain shower
+19/12/2015,600,Overcast
+19/12/2015,1200,Patchy rain possible
+19/12/2015,1800,Partly cloudy
+20/12/2015,0,Clear
+20/12/2015,600,Clear
+20/12/2015,1200,Sunny
+20/12/2015,1800,Sunny
+21/12/2015,0,Clear
+21/12/2015,600,Cloudy
+21/12/2015,1200,Overcast
+21/12/2015,1800,Overcast
+22/12/2015,0,Light drizzle
+22/12/2015,600,Light drizzle
+22/12/2015,1200,Patchy rain possible
+22/12/2015,1800,Patchy rain possible
+23/12/2015,0,Cloudy
+23/12/2015,600,Cloudy
+23/12/2015,1200,Patchy rain possible
+23/12/2015,1800,Sunny
+24/12/2015,0,Partly cloudy
+24/12/2015,600,Cloudy
+24/12/2015,1200,Overcast
+24/12/2015,1800,Patchy rain possible
+25/12/2015,0,Clear
+25/12/2015,600,Partly cloudy
+25/12/2015,1200,Sunny
+25/12/2015,1800,Sunny
+26/12/2015,0,Clear
+26/12/2015,600,Partly cloudy
+26/12/2015,1200,Sunny
+26/12/2015,1800,Sunny
+27/12/2015,0,Clear
+27/12/2015,600,Clear
+27/12/2015,1200,Sunny
+27/12/2015,1800,Sunny
+28/12/2015,0,Clear
+28/12/2015,600,Clear
+28/12/2015,1200,Sunny
+28/12/2015,1800,Sunny
+29/12/2015,0,Partly cloudy
+29/12/2015,600,Partly cloudy
+29/12/2015,1200,Partly cloudy
+29/12/2015,1800,Sunny
+30/12/2015,0,Patchy rain possible
+30/12/2015,600,Light drizzle
+30/12/2015,1200,Sunny
+30/12/2015,1800,Sunny
+31/12/2015,0,Clear
+31/12/2015,600,Clear
+31/12/2015,1200,Cloudy
+31/12/2015,1800,Sunny
